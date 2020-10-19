@@ -1,6 +1,4 @@
 cask_args appdir: "/Applications"
-tap "heroku/brew"
-tap "codeclimate/formulae"
 tap "homebrew/core"
 tap "homebrew/bundle"
 tap "homebrew/services"
